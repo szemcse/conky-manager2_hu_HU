@@ -1,0 +1,816 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Tony George (teejee2008@gmail.com)
+# This file is distributed under the same license as the conky-manager2 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: conky-manager2 2.0\n"
+"Report-Msgid-Bugs-To: teejee2008@gmail.com\n"
+"POT-Creation-Date: 2023-04-04 12:15+0200\n"
+"PO-Revision-Date: 2023-04-04 14:13+0200\n"
+"Last-Translator: László Viktor <szemcse1@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: EditWidgetWindow.vala:384
+msgid "12 Hour"
+msgstr "12 óra"
+
+#: EditWidgetWindow.vala:386
+msgid "24 Hour"
+msgstr "24 óra"
+
+#: MainWindow.vala:434 MainWindow.vala:435
+msgid "About"
+msgstr "Névjegy"
+
+#: SettingsWindow.vala:199
+msgid "Add"
+msgstr "Hozzáad"
+
+#: SettingsWindow.vala:152
+msgid "Additional locations to search for Conky themes"
+msgstr "További helyek a Conky-sablonok kereséséhez"
+
+#: EditWidgetWindow.vala:104
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: GeneratePreviewWindow.vala:69
+msgid "All Widgets (Overwrite Existing Image)"
+msgstr "Minden widget (meglévő kép felülírása)"
+
+#: GeneratePreviewWindow.vala:66
+msgid "All Widgets with Missing Previews"
+msgstr "Minden widget hiányzó előnézetekkel"
+
+#: Main.vala:258
+msgid "App config loaded"
+msgstr "Az alkalmazás konfigurációja betöltve"
+
+#: Main.vala:210
+msgid "App config saved"
+msgstr "Az alkalmazás konfigurációja mentve"
+
+#: MainWindow.vala:416 SettingsWindow.vala:47
+msgid "Application Settings"
+msgstr "Alkalmazás beállításai"
+
+#: EditWidgetWindow.vala:445
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: EditWidgetWindow.vala:448
+msgid "Apply Changes"
+msgstr "Módosítások mentése"
+
+#: AboutWindow.vala:386
+#, c-format
+msgid "Artists"
+msgstr "Művészek"
+
+#: AboutWindow.vala:370
+#, c-format
+msgid "Authors"
+msgstr "Szerzők"
+
+#: AboutWindow.vala:337
+msgid "Back"
+msgstr "Vissza"
+
+#: EditWidgetWindow.vala:312
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: EditWidgetWindow.vala:125
+msgid "Bottom Left"
+msgstr "Balra lent"
+
+#: EditWidgetWindow.vala:129
+msgid "Bottom Middle"
+msgstr "Lent középen"
+
+#: EditWidgetWindow.vala:127
+msgid "Bottom Right"
+msgstr "Jobbra lent"
+
+#: MainWindow.vala:122
+msgid "Browse:"
+msgstr "Böngészés:"
+
+#: EditThemeWindow.vala:212 GeneratePreviewWindow.vala:148 SettingsWindow.vala:221
+msgid "Cancel"
+msgstr "Mégse"
+
+#: GeneratePreviewWindow.vala:83
+msgid "Capture Desktop Background"
+msgstr "Asztali háttér rögzítése"
+
+#: EditThemeWindow.vala:130
+msgid "Choose File"
+msgstr "Fájl kiválasztása"
+
+#: AboutWindow.vala:347 EditWidgetWindow.vala:461
+msgid "Close"
+msgstr "Bezárás"
+
+#: Main.vala:165
+msgid "Commands listed below are not available"
+msgstr "Az alább felsorolt parancsok nem érhetők el"
+
+#: AboutWindow.vala:324 AboutWindow.vala:341 MainWindow.vala:258
+msgid "Credits"
+msgstr "Készítők"
+
+#: EditThemeWindow.vala:123
+msgid "Current Wallpaper"
+msgstr "Aktuális háttérkép"
+
+#: Main.vala:1997
+msgid "Current wallpaper source path"
+msgstr "Aktuális háttérkép elérési útja"
+
+#: EditThemeWindow.vala:115
+msgid "Custom Wallpaper"
+msgstr "Egyéni háttérkép"
+
+#: DonationWindow.vala:54
+msgid ""
+"Did you find this software useful?\n"
+"\n"
+"You can buy me a coffee or make a donation via PayPal to show your support. Or just drop me an "
+"email and say Hi. This application is completely free and will continue to remain that way. Your "
+"contributions will help in keeping this project alive and improving it further.\n"
+"\n"
+"Feel free to send me an email if you find any issues in this application or if you need any "
+"changes. Suggestions and feedback are always welcome.\n"
+"\n"
+"Thanks,\n"
+"Tony George\n"
+"(teejeetech@gmail.com)\n"
+"\n"
+"Bionic to Focal to Jammy support, 1.10+ config support, magic archive import, terminal debug "
+"function, and more\n"
+"-help finance the efforts with these buttons to the right.\n"
+"                                                                                          Scott "
+"Caudle\n"
+"                                                                                (zcotcaudle@gmail."
+"com)"
+msgstr ""
+"Hasznosnak találta ezt a szoftvert?\n"
+"\n"
+"Vásárolhat nekem egy kávét, vagy adományozhat a PayPal-on keresztül, hogy kifejezze támogatását. "
+"Vagy csak írj egy e-mailt, és mondd: Szia. Ez az alkalmazás teljesen ingyenes, és továbbra is az "
+"marad. Az Ön hozzájárulása támogatja a projekt életben tartását és további fejlesztését.\n"
+"\n"
+"Nyugodtan küldjön e-mailt, ha bármilyen problémát talál ebben az alkalmazásban, vagy ha bármilyen "
+"változtatásra van szüksége. Javaslatokat és visszajelzéseket mindig szívesen fogadunk.\n"
+"\n"
+"Köszönettel,\n"
+"Tony George\n"
+"(teejeetech@gmail.com)\n"
+"\n"
+"Bionic to Focal to Jammy támogatás, 1.10+ konfiguráció támogatás, magic archívum importálás, "
+"terminál hibakeresési funkció és még sok más\n"
+"- segíthet finanszírozni az erőfeszítéseinket az alábbi gombokkal.\n"
+"                                                                                          Scott "
+"Caudle\n"
+"                                                                                (zcotcaudle@gmail."
+"com)"
+
+#: Main.vala:267 Main.vala:273 Main.vala:279
+msgid "Directory Created"
+msgstr "Könyvtár létrehozva"
+
+#: EditWidgetWindow.vala:464
+msgid "Discard Changes"
+msgstr "Módosítások elvetése"
+
+#: AboutWindow.vala:402
+#, c-format
+msgid "Documenters"
+msgstr "Dokumentáló"
+
+#: DonationWindow.vala:88
+msgid "Donate with Google Wallet"
+msgstr "Adományozás Google Wallet-el"
+
+#: DonationWindow.vala:81
+msgid "Donate with PayPal"
+msgstr "Adományozás (PayPal)"
+
+#: AboutWindow.vala:410
+#, c-format
+msgid "Donations"
+msgstr "Adományok"
+
+#: MainWindow.vala:339
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: EditThemeWindow.vala:57
+msgid "Edit Theme"
+msgstr "Sablon szerkesztése"
+
+#: EditWidgetWindow.vala:64 MainWindow.vala:340
+msgid "Edit Widget"
+msgstr "Widget szerkesztése"
+
+#: MainWindow.vala:349
+msgid "Edit file manually in a text editor"
+msgstr "Fájl manuális szerkesztése egy szövegszerkesztőben"
+
+#: MainWindow.vala:455
+msgid "Enable"
+msgstr "Bekapcsol"
+
+#: MainWindow.vala:185
+msgid ""
+"Enter name or path to filter.\n"
+"Enter '0' to list running widgets"
+msgstr ""
+"Adjuk meg a szűréshez szükséges nevet vagy elérési utat.\n"
+"'0' érték beírása a futó widgetek listájához"
+
+#: MainWindow.vala:1016 Utility.vala:107
+msgid "Error"
+msgstr "Hiba"
+
+#: MainWindow.vala:1016
+msgid "Failed to import themes"
+msgstr "Nem sikerült importálni a sablonokat"
+
+#: Utility.vala:1309
+msgid "Failed to set ownership"
+msgstr "Nem sikerült beállítani a tulajdonjogot"
+
+#: Main.vala:375
+msgid "Failed to unzip files from theme pack"
+msgstr "Nem sikerült kicsomagolni a fájlokat a sabloncsomagból"
+
+#: MainWindow.vala:175
+msgid "Filter"
+msgstr "Szűrő"
+
+#: DonationWindow.vala:124
+msgid "Financial support Stripe"
+msgstr "Pénzügyi támogatás Stripe-vel"
+
+#: Main.vala:580
+msgid "Font Copied: "
+msgstr "Betűtípus másolva: "
+
+#: Main.vala:320
+msgid "Found theme pack [installed]"
+msgstr "Sabloncsomag elérhető [telepítve]"
+
+#: Main.vala:328
+msgid "Found theme pack [new]"
+msgstr "Sabloncsomag elérhető [új]"
+
+#: DonationWindow.vala:117
+msgid "Fund with Credit Card/PayPal"
+msgstr "Befizetés hitelkártyával/PayPal-lal"
+
+#: MainWindow.vala:425
+msgid "Funding"
+msgstr "Finanszírozás"
+
+#: DonationWindow.vala:36 MainWindow.vala:426
+msgid "Funding Support"
+msgstr "Finanszírozás és támogatás"
+
+#: SettingsWindow.vala:76
+msgid "General"
+msgstr "Általános"
+
+#: GeneratePreviewWindow.vala:45 MainWindow.vala:380
+msgid "Generate Preview"
+msgstr "Előnézet létrehozása"
+
+#: MainWindow.vala:381
+msgid "Generate preview images"
+msgstr "Előnézeti képek készítése"
+
+#: GeneratePreviewWindow.vala:57
+msgid "Generate preview images for"
+msgstr "Előnézeti képek létrehozása a következőhöz"
+
+#: GeneratePreviewWindow.vala:108
+msgid "Generate preview images in PNG format instead of JPEG"
+msgstr "JPEG helyett PNG formátumban hozzon létre előnézeti képeket"
+
+#: MainWindow.vala:845 MainWindow.vala:919
+msgid "Generating Previews"
+msgstr "Előnézetek létrehozása"
+
+#: EditWidgetWindow.vala:213
+msgid "Height Padding"
+msgstr "Magassági margó"
+
+#: EditWidgetWindow.vala:195
+msgid ""
+"Height should be larger than the size of window contents,\n"
+"otherwise this setting will not have any effect"
+msgstr ""
+"A magasság nagyobb legyen, mint az ablak tartalmának mérete,\n"
+"különben ennek a beállításnak nincs hatása"
+
+#: GeneratePreviewWindow.vala:104
+msgid "High quality images (PNG)"
+msgstr "Kiváló minőségű képek (PNG)"
+
+#: EditWidgetWindow.vala:139
+msgid "Horizontal Gap"
+msgstr "Vízszintes hézag"
+
+#: MainWindow.vala:400 MainWindow.vala:958
+msgid "Import"
+msgstr "Importálás"
+
+#: MainWindow.vala:401
+msgid "Import Theme Pack (*.cmtp.7z) or various archive type"
+msgstr "Sabloncsomag importálása (*.cmtp.7z) vagy különböző típusú archívum"
+
+#: Main.vala:364
+msgid "Importing"
+msgstr "Importálás"
+
+#: EditThemeWindow.vala:80
+msgid "Include desktop wallpaper in theme"
+msgstr "Sablonban helyezze el az asztali háttérképet"
+
+#: EditThemeWindow.vala:222 EditThemeWindow.vala:223
+msgid "Include running widgets in theme"
+msgstr "Tegye bele a futó widgeteket a sablonba"
+
+#: EditWidgetWindow.vala:210
+msgid "Increases the window height by adding empty lines at the end of the Conky config file"
+msgstr "Növeli az ablak magasságát üres sorok hozzáadásával a Conky konfigurációs fájl végén"
+
+#: EditWidgetWindow.vala:406
+msgid "Interface"
+msgstr "Kezelőfelület"
+
+#: EditWidgetWindow.vala:425
+msgid "LAN"
+msgstr "LAN"
+
+#: MainWindow.vala:201
+msgid "List"
+msgstr "Lista"
+
+#: EditWidgetWindow.vala:475
+msgid "Loading"
+msgstr "Betöltés"
+
+#: EditWidgetWindow.vala:88 SettingsWindow.vala:173
+msgid "Location"
+msgstr "Hely"
+
+#: SettingsWindow.vala:126
+msgid "Locations"
+msgstr "Elérési helyek"
+
+#: MainWindow.vala:348
+msgid "Manual Edit"
+msgstr "Kézi szerkesztés"
+
+#: EditWidgetWindow.vala:131
+msgid "Middle Left"
+msgstr "Középen lent"
+
+#: EditWidgetWindow.vala:135
+msgid "Middle Middle"
+msgstr "Teljesen a közepén"
+
+#: EditWidgetWindow.vala:133
+msgid "Middle Right"
+msgstr "Középen jobbra"
+
+#: EditWidgetWindow.vala:198
+msgid "Minimum Height"
+msgstr "Minimális magasság"
+
+#: EditWidgetWindow.vala:182
+msgid "Minimum Width"
+msgstr "Minimális szélesség"
+
+#: Main.vala:134
+msgid "Missing Dependencies"
+msgstr "Hiányzó függőségek"
+
+#: Utility.vala:1039
+msgid "Missing Icon"
+msgstr "Hiányzó ikon"
+
+#: MainWindow.vala:1146
+msgid "N/A"
+msgstr "N/A"
+
+#: EditThemeWindow.vala:328
+msgid "Name Required"
+msgstr "Név kötelező"
+
+#: EditWidgetWindow.vala:390
+msgid "Network"
+msgstr "Hálózat"
+
+#: EditWidgetWindow.vala:539
+msgid "Network interface cannot be changed for selected widget"
+msgstr "A kiválasztott widget hálózati interfésze nem módosítható"
+
+#: MainWindow.vala:297
+msgid "Next"
+msgstr "Következő"
+
+#: MainWindow.vala:298
+msgid "Next Widget"
+msgstr "Következő Widget"
+
+#: EditThemeWindow.vala:341
+msgid "No Widgets Selected"
+msgstr "Nincs kiválasztva Widget"
+
+#: EditThemeWindow.vala:113
+msgid "None"
+msgstr "Semmi"
+
+#: DonationWindow.vala:109 EditThemeWindow.vala:205 GeneratePreviewWindow.vala:125
+#: SettingsWindow.vala:215
+msgid "OK"
+msgstr "OK"
+
+#: EditWidgetWindow.vala:298
+msgid "Opacity (%)"
+msgstr "Átlátszatlanság (%)"
+
+#: EditWidgetWindow.vala:286
+msgid "Opaque"
+msgstr "Átlátszóság"
+
+#: MainWindow.vala:357
+msgid "Open Folder"
+msgstr "Mappa megnyitása"
+
+#: MainWindow.vala:358
+msgid "Open Theme Folder"
+msgstr "Sablon mappa megnyitása"
+
+#: GeneratePreviewWindow.vala:72
+msgid "Options"
+msgstr "Beállítások"
+
+#: EditThemeWindow.vala:329
+msgid "Please enter theme name"
+msgstr "Kérjük, adjunk nevet a sablonnak"
+
+#: Main.vala:166
+msgid "Please install required packages and try running it again"
+msgstr "Kérjük, telepítse a szükséges csomagokat, és próbálja meg újra futtatni"
+
+#: MainWindow.vala:195
+msgid "Preview"
+msgstr "Előnézet"
+
+#: MainWindow.vala:288
+msgid "Previous"
+msgstr "Előző"
+
+#: MainWindow.vala:289
+msgid "Previous Widget"
+msgstr "Előző Widget"
+
+#: EditWidgetWindow.vala:290
+msgid "Pseudo-Transparent"
+msgstr "Ál-átlátszó"
+
+#: MainWindow.vala:371
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: SettingsWindow.vala:205
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: EditWidgetWindow.vala:453
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: EditWidgetWindow.vala:456
+msgid "Reset Changes"
+msgstr "Változtatások visszaállítása"
+
+#: SettingsWindow.vala:86
+msgid "Run Conky at system startup"
+msgstr "Conky futtatása rendszer indításkor"
+
+#: EditThemeWindow.vala:57 MainWindow.vala:161
+msgid "Save Theme"
+msgstr "Sablon mentése"
+
+#: MainWindow.vala:165
+msgid "Save running widgets and current desktop wallpaper as new theme"
+msgstr "Mentsük el a futó widgeteket és az aktuális asztal háttérképét új sablonként"
+
+#: Main.vala:1044
+msgid "Saved"
+msgstr "Elmentve"
+
+#: EditThemeWindow.vala:152
+msgid "Scaling"
+msgstr "Méretezés"
+
+#: MainWindow.vala:372
+msgid "Search for new themes"
+msgstr "Új sablonok keresése"
+
+#: MainWindow.vala:1158
+msgid "Searching directories..."
+msgstr "Könyvtárak keresése..."
+
+#: Main.vala:427
+#, c-format
+msgid "Searching for conkyrc files... %d found"
+msgstr "Conkyrc fájlok keresése... %d található"
+
+#: EditThemeWindow.vala:135
+msgid "Select Wallpaper"
+msgstr "Háttérkép kiválasztása"
+
+#: SettingsWindow.vala:270
+msgid "Select directory"
+msgstr "Könyvtár kiválasztása"
+
+#: EditThemeWindow.vala:342
+msgid "Select the widgets to include in theme"
+msgstr "Sablonba foglalandó Widgetek kiválasztása"
+
+#: GeneratePreviewWindow.vala:63
+msgid "Selected Widget"
+msgstr "Kiválasztott Widgetek"
+
+#: EditWidgetWindow.vala:292
+msgid "Semi-Transparent"
+msgstr "Félig átlátszó"
+
+#: DonationWindow.vala:95 DonationWindow.vala:131
+msgid "Send Email"
+msgstr "E-mail küldés"
+
+#: EditWidgetWindow.vala:240
+msgid ""
+"Setting Type to \"Opaque\" (from the transparency tab) will make it easier to see the changes"
+msgstr ""
+"Ha a Típust \"Átlátszatlan\"-ra állítjuk (az átlátszóság fülön), könnyebben láthatóak a változások"
+
+#: EditWidgetWindow.vala:335
+msgid ""
+"Setting Type to \"Pseudo-Transparent\" will make the window transparent but the window will have "
+"a shadow. The shadow can be disabled by configuring your window manager."
+msgstr ""
+"Ha a Típust \"Ál-átlátszó\"-ra állítjuk, az ablak átlátszóvá válik, de az ablaknak lesz árnyéka. "
+"Az árnyék letiltható az ablakkezelő konfigurálásával."
+
+#: EditWidgetWindow.vala:325
+msgid ""
+"Setting Type to \"Transparent\" will make the whole window transparent (including any images). "
+"Use \"Pseudo-Transparent\" if you want the images to be opaque."
+msgstr ""
+"Ha a Típust \"Átlátszó\" értékre állítjuk, az egész ablak átlátszóvá válik (beleértve a képeket "
+"is). Ha azt szeretnénk, hogy a képek átlátszatlanok legyenek, használjuk az „Ál-átlátszó” "
+"lehetőséget."
+
+#: MainWindow.vala:415
+msgid "Settings"
+msgstr "Beállítások"
+
+#: EditWidgetWindow.vala:164
+msgid "Size"
+msgstr "Méret"
+
+#: MainWindow.vala:248
+msgid "Source"
+msgstr "Forrás"
+
+#: MainWindow.vala:316 MainWindow.vala:325
+msgid "Start"
+msgstr "Indítás"
+
+#: MainWindow.vala:317
+msgid "Start/Restart Widget"
+msgstr "Widget indítása/újraindítása"
+
+#: MainWindow.vala:308
+msgid "Start/Restart Widget in Terminal"
+msgstr "Widget indítása/újraindítása terminálban"
+
+#: Main.vala:925 Main.vala:947
+msgid "Started"
+msgstr "Elindult"
+
+#: SettingsWindow.vala:105
+msgid "Startup Delay (seconds)"
+msgstr "Indítási késleltetés (másodperc)"
+
+#: MainWindow.vala:230 MainWindow.vala:232
+msgid "Stop"
+msgstr "Leállítás"
+
+#: MainWindow.vala:391
+msgid "Stop All Widgets"
+msgstr "Minden Widget leállítása"
+
+#: MainWindow.vala:326
+msgid "Stop Widget"
+msgstr "Widget leállítása"
+
+#: MainWindow.vala:392
+msgid "Stop all running widgets"
+msgstr "Minden futó Widget leállítása"
+
+#: Main.vala:973 Utility.vala:767
+msgid "Stopped"
+msgstr "Leállt"
+
+#: MainWindow.vala:307
+msgid "Terminal Start"
+msgstr "Terminál indítása"
+
+#: EditWidgetWindow.vala:230
+msgid ""
+"The minimum width & height must be more than the size of the window contents, otherwise the "
+"setting will not have any effect."
+msgstr ""
+"A minimális szélességnek és magasságnak nagyobbnak kell lennie, mint az ablak tartalmának mérete, "
+"különben a beállításnak nincs hatása."
+
+#: SettingsWindow.vala:137
+msgid "Theme Directory"
+msgstr "Sablon könyvtára"
+
+#: EditThemeWindow.vala:67
+msgid "Theme Name"
+msgstr "Sablon neve"
+
+#: MainWindow.vala:130
+msgid "Themes"
+msgstr "Sablonok"
+
+#: MainWindow.vala:1013
+msgid "Themes Imported"
+msgstr "Sablonok importálva"
+
+#: MainWindow.vala:1013
+msgid "Themes imported successfully"
+msgstr "Sablonok sikeresen importálva"
+
+#: AboutWindow.vala:378
+#, c-format
+msgid "Third Party Tools"
+msgstr "Harmadik féltől származó eszközök"
+
+#: EditWidgetWindow.vala:346
+msgid "Time"
+msgstr "Idő"
+
+#: EditWidgetWindow.vala:362
+msgid "Time Format"
+msgstr "Idő formátum"
+
+#: EditWidgetWindow.vala:523
+msgid "Time format cannot be changed for selected widget"
+msgstr "A kiválasztott widget időformátuma nem módosítható"
+
+#: MainWindow.vala:203
+msgid "Toggle List"
+msgstr "Lista becsukása"
+
+#: MainWindow.vala:197
+msgid "Toggle Preview"
+msgstr "Előnézet becsukása"
+
+#: EditWidgetWindow.vala:119
+msgid "Top Left"
+msgstr "Balra fent"
+
+#: EditWidgetWindow.vala:123
+msgid "Top Middle"
+msgstr "Középen fent"
+
+#: EditWidgetWindow.vala:121
+msgid "Top Right"
+msgstr "Jobbra fent"
+
+#: AboutWindow.vala:394
+#, c-format
+msgid "Translators"
+msgstr "Fordítók"
+
+#: EditWidgetWindow.vala:251
+msgid "Transparency"
+msgstr "Átlátszóság"
+
+#: EditWidgetWindow.vala:268
+msgid "Transparency Type"
+msgstr "Átlátszóság típusa"
+
+#: EditWidgetWindow.vala:288
+msgid "Transparent"
+msgstr "Átlátszó"
+
+#: EditWidgetWindow.vala:573
+msgid "Updating theme"
+msgstr "Sablon frissítése"
+
+#: MainWindow.vala:491
+msgid ""
+"Use the keyboard arrow keys to browse.\n"
+"Press ENTER to start and stop."
+msgstr ""
+"A böngészéshez használjuk a billentyűzet nyílbillentyűit.\n"
+"Nyomjunk ENTER gombot az indításhoz és a leállításhoz."
+
+#: MainWindow.vala:1089
+msgid "Utility for managing Conky configuration files"
+msgstr "Segédprogram a Conky konfigurációs fájlok kezelésére"
+
+#: EditWidgetWindow.vala:151
+msgid "Vertical Gap"
+msgstr "Függőleges hézag"
+
+#: DonationWindow.vala:102
+msgid "Visit Website"
+msgstr "Weboldal megtekintése"
+
+#: EditThemeWindow.vala:80 EditThemeWindow.vala:93
+msgid "Wallpaper"
+msgstr "Háttérkép"
+
+#: Main.vala:2001 Main.vala:2009
+msgid "Wallpaper saved"
+msgstr "Háttérkép mentve"
+
+#: Utility.vala:107
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+#: GeneratePreviewWindow.vala:87
+msgid ""
+"When enabled, the generated image will have the same background as the current desktop wallpaper. "
+"When disabled, the background will be a solid color (the widget's background color)."
+msgstr ""
+"Ha engedélyezve van, az előállított kép háttere, akkor ugyanaz lesz, mint az aktuális asztal "
+"háttérképe. Ha le van tiltva, akkor a háttér egyszínű lesz (a widget háttérszíne)."
+
+#: EditWidgetWindow.vala:416
+msgid "WiFi"
+msgstr "WiFi"
+
+#: EditWidgetWindow.vala:421
+msgid "WiFi Network"
+msgstr "WiFi hálózat"
+
+#: EditThemeWindow.vala:222 MainWindow.vala:126
+msgid "Widgets"
+msgstr "Widgetek"
+
+#: EditWidgetWindow.vala:179
+msgid ""
+"Width should be larger than the size of window contents,\n"
+"otherwise this setting will not have any effect"
+msgstr ""
+"A szélességnek nagyobbnak kell lennie, mint az ablak tartalmának mérete,\n"
+"különben ennek a beállításnak nincs hatása"
+
+#: EditWidgetWindow.vala:295
+msgid ""
+"Window Opacity\n"
+"\n"
+"0 = Fully Transparent, 100 = Fully Opaque"
+msgstr ""
+"Ablak átlátszatlansága\n"
+"\n"
+"0 = teljesen átlátszó, 100 = teljesen átlátszatlan"
+
+#: EditWidgetWindow.vala:430
+msgid "Wired LAN Network"
+msgstr "Vezetékes LAN hálózat"
+
+#: EditWidgetWindow.vala:140
+msgid "[GAP_X] Horizontal distance from window border (in pixels)"
+msgstr "[GAP_X] Az ablak határától mért vízszintes távolság (képpontban)"
+
+#: EditWidgetWindow.vala:152
+msgid "[GAP_Y] Vertical distance from window border (in pixels)"
+msgstr "[GAP_Y] Függőleges távolság az ablak határától (képpontban)"
+
+#: DonationWindow.vala:138
+msgid "github site"
+msgstr "github oldal"
