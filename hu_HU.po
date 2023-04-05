@@ -251,7 +251,7 @@ msgid ""
 "Enter '0' to list running widgets"
 msgstr ""
 "Adja meg a szűréshez szükséges nevet vagy elérési utat.\n"
-"Adjon meg „0”-t a futó felületi elemek felsorolásához"
+"Adjon meg '0'-t a futó felületi elemek felsorolásához"
 
 #: MainWindow.vala:1016 Utility.vala:107
 msgid "Error"
